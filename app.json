@@ -1,0 +1,7 @@
+{
+  "id": "sleeptrackeru",
+  "name": "Sleep Trackeru",
+  "src": "sleeptrackubiquitous.js",
+  "icon": "sleeptrack.img",
+  "type": "app"
+}
